@@ -1,4 +1,4 @@
-### **Hey there** 👋
+### **Hello** 👋
 I'm **Ana Thayza**, a **IT student** 🎓 passionate about mobile, web, and desktop development. 
 
 <hr/>
