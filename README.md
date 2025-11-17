@@ -9,7 +9,7 @@ I'm **Ana Thayza**, a **IT student** 🎓 passionate about mobile, web, and desk
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,mongodb,py,androidstudio,bootstrap,django,git,php)](https://skillicons.dev)
 
 
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayzana&layout=compact)](https://github.com/Thayzana/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayzana&layout=compact)](https://github.com/Thayzana/github-readme-stats) 
 
 
 **Follow me on my social media:**
