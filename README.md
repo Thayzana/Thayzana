@@ -1,16 +1,18 @@
-## Hi there 👋
+### **Hey there** 👋
+I'm **Ana Thayza**, a **IT student** 🎓 passionate about mobile, web, and desktop development. 
 
-<!--
-**Thayzana/Thayzana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
+🔧 **Technologies & Tools**
+<p>
+</p>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,mongodb,py,androidstudio,bootstrap,django,git,php)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thayzana&layout=compact)](https://github.com/Thayzana/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thayzana&theme=LunarPinkTheme)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  
+ | ----------- | ----------- |  
+
+
+**Follow me on my social media:**
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/thayza_ana/)](https://www.instagram.com/thayza_ana/)
